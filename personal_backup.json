@@ -1,0 +1,37 @@
+{
+	"adaptive_dividers": false,
+	"always_show_minimap_viewport": true,
+	"anaconda_gutter_marks": true,
+	"anaconda_gutter_theme": "none",
+	"anaconda_linter_underlines": true,
+	"anaconda_linting": false,
+	"anaconda_linting_behaviour": "save-only",
+	"anaconda_tooltip_theme": "tooltip",
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 0.5,
+	"color_scheme": "Packages/Enki Theme/scheme/Enki-Aster.tmTheme",
+	"draw_centered": true,
+	"draw_indent_guides": true,
+	"font_face": "Ubunto Mono",
+	"font_size": 11.5,
+	"ignored_packages":
+	[
+		"A File Icon",
+		"Vintage"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"margin": 0,
+	"mdpopups.sublime_user_lang_map":
+	{
+	},
+	"mdpopups.use_sublime_highlighter": true,
+	"python_interpreter": "python3",
+	"remember_full_screen": true,
+	"save_on_focus_lost": true,
+	"scroll_speed": 30.0,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
